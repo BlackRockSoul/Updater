@@ -82,7 +82,7 @@ namespace AutoUpdaterDotNET
             // 
             // pictureBoxIcon
             // 
-            this.pictureBoxIcon.Image = global::AutoUpdaterDotNET.Properties.Resources.update;
+            this.pictureBoxIcon.Image = global::AutoUpdaterDotNET.Properties.Resources.arrow_refresh_4_16;
             resources.ApplyResources(this.pictureBoxIcon, "pictureBoxIcon");
             this.pictureBoxIcon.Name = "pictureBoxIcon";
             this.pictureBoxIcon.TabStop = false;
